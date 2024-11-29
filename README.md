@@ -1,4 +1,4 @@
-# sML---Diabetes-HourlyWage Multiple-Linear-Regression
+# sML---Diabetes-&-HourlyWage Multiple-Linear-Regression
 
 ## Diabetes Dataset 
 
