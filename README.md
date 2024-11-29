@@ -18,7 +18,7 @@ The accuracy score of the test-set is then determined.
 
 ## Hourly Wages Dataset
 
-The dataset the inspected by dropping columns with missing values and the hourly wage values where covered to floats.
+The dataset is inspected by dropping columns with missing values and the hourly wage column values where converted to floats.
 
 Three plots where generated to show the correlation between the Average Hourly Wage vs. Positiom, Age and Numbe rof years Worked.
 
