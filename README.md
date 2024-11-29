@@ -30,4 +30,6 @@ The Multiple Linear Regression model is then generated using the training set, u
 
 An error plot is used to graph the predictions.
 
-The Root Mean Squared Error of the model is calculated and interpreted by looking at the coefficients. 
+The Root Mean Squared Error and R^2 of the model is calculated and interpreted.
+
+The MLR models equation coefficients are determined and interpreted.
